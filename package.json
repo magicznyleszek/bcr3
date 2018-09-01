@@ -14,8 +14,8 @@
     "start": "npm run build",
     "build": "pretty-quick && npm-run-all build-styles pdf-book",
     "serve": "npm-run-all build jekyll-serve",
-    "build-styles": "postcss _includes/main.css -o docs/bcr3.css",
-    "pdf-book": "markdown-pdf _includes/text/bcr3.md -o docs/bcr3.pdf -f A4 -r portrait -b 1.5cm -s dist/monolith.css -m '{\"breaks\": false, \"linkify\": false, \"typographer\": true}'",
+    "build-styles": "postcss _includes/main.css -o dist/bcr3.css",
+    "pdf-book": "markdown-pdf _includes/text/bcr3.md -o dist/bcr3.pdf -f A4 -r portrait -b 1.5cm -s dist/monolith.css -m '{\"breaks\": false, \"linkify\": false, \"typographer\": true}'",
     "jekyll-build": "jekyll build",
     "jekyll-serve": "jekyll serve --watch --baseurl ''"
   },
