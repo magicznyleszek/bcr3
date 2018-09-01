@@ -1,4 +1,4 @@
-# Balety, Cycuchy, Roboty - częśc 3
+# Balety, Cycuchy, Roboty -- część 3
 
 Lytewski dramat w ósemce (jednaści) scen wpisany.
 
@@ -24,7 +24,7 @@ Balkon od strony zachodniej
 
 W której Princesa-siostry doczekuje się dwóch propozycji zamążdołóżkapójścia, w skutek czego ma rozterki, w skutek których opuszcza bal.
 
-Potulne modernistyczne zamczysko dwu wież szkarłatnych szkarłupniokształtów opatuląnsze. Cupnięte wpomiędzy mury zamkowe komnatesko o pełnych grejsowych pikorysach zdobywczych o barwniach naturalnych, wypełniwszy się goścmi - zzewsząd znamienitościami hucznie huczy. Bofuryjskie bogactwa zdobią uwisające zwiewne falbany u ud dam i dzierlatek, daliczyjskich sukien posiadaczek. Mody li co urody znakomitsze kąski-faworyty zjechały się na bal, corocznego polowania chycznych biżantów świętowanie. Realne spijaństwo i orgastyczna orgia podniebień, a tajnego sekschadzania się także.
+Potulne modernistyczne zamczysko dwu wież szkarłatnych szkarłupniokształtów opatuląnsze. Cupnięte wpomiędzy mury zamkowe komnatesko o pełnych grejsowych pikorysach zdobywczych o barwniach naturalnych, wypełniwszy się goścmi -- zzewsząd znamienitościami hucznie huczy. Bofuryjskie bogactwa zdobią uwisające zwiewne falbany u ud dam i dzierlatek, daliczyjskich sukien posiadaczek. Mody li co urody znakomitsze kąski-faworyty zjechały się na bal, corocznego polowania chycznych biżantów świętowanie. Realne spijaństwo i orgastyczna orgia podniebień, a tajnego sekschadzania się także.
 
 Tutaj nasz dzielny Syr Krosty Srebrnej rycerskość swą oblubieniwszy i honor wywalczon pragnie mój-ci-onym być Princesy-siostry acz prawdolipodobnie priorytetalnie bałamucielstwo ma na myśli. Oboje wyjrzawszy na uszylewski kosmatej barwy balkon balowej komnaty, pełen nieodgadnionych roślin, kuriozum egzoticum, dyskutują. A dysputa trwa! (Oj ona!)
 
@@ -44,7 +44,7 @@ Fuknęła się na to Princesa-siostry, że aż jej brutlitowe kryształy u wisio
 
 > Ależ ależ kędy ci powinien rzec każdy, że twe zachwyty cne są wnet wcale nie, a przyziemne jeno antydelikatnie żądze z twych ust psioczą!
 
-Pocichu jął ją prosić swymi błękitnookimi jeziory wtapiając w *tym razem* jej buśkę:
+Pocichu jął ją prosić swymi błękitnookimi jeziory wtapiając w _tym razem_ jej buśkę:
 
 > Ależ ależ ja cię chcę! Wybacz li mi te grubiańskie śwoty jamż jeno rycerz niegodny twej…
 
@@ -196,7 +196,7 @@ Po chwili jeszcze dodając z nutami nadziei zrodzonymi w głosie swym:
 
 > Pprincesa-siostry li to?
 
-Ryc.1 przytomniał w oka mignięciu wystraszywszy się, by nakryty nie był on - banita bandyta. Wspomniwszy niesłychanie na swój skrycie rzędny spryt li jął zaraz udawać, że pachnie perfumą piżmakową, szybko rękawicą zdjąwszy sięgnął lic rozmówcy nieznajomego swego i wpił się jegoż usty wargmi swymi.
+Ryc.1 przytomniał w oka mignięciu wystraszywszy się, by nakryty nie był on -- banita bandyta. Wspomniwszy niesłychanie na swój skrycie rzędny spryt li jął zaraz udawać, że pachnie perfumą piżmakową, szybko rękawicą zdjąwszy sięgnął lic rozmówcy nieznajomego swego i wpił się jegoż usty wargmi swymi.
 
 > Mmmmhm mmmm… mmmm! Ślip ślip
 
@@ -278,7 +278,7 @@ W której Jałowiec Vulgaris stara się ostrzec przed inwazyjną ofensywą robot
 
 Spoglądamy na owoc dyrygenteriuszerki archytekta, najprawdopodobnie Żyda skałmieniarskiego magistra. Gnejsisko zewsząd otoczywszy piękne ociosane budowy ochronnego muru, wycinając z jaskrawego i nocnego nieba się. Że wzdychać chce się kontempliwszy sytość jeno budowlanego piękna. Posiadwszy barwę stukrotnego stukroć biogeopotokrytu sztuka kamielnicza powodów do wzdychnięcia ma milijon ponad sam jeden. Jakeśmy osiągnęli juże wcześnie wiedzę, samotna dusza strażnicza z ciałem strażniczym obrania pozycję obronną murów tych zza flank wyglądając i włócznię dzierżąc. Rośnie bluszcz. Szleści wichrer. Kuncfają humpcfoty.
 
-> Mruku mruru ruksztyczek - brzdęk!
+> Mruku mruru ruksztyczek -- brzdęk!
 
 Wte wewte Vulgarniśny łazik łaził, podług ścieżyny wyobrażalnej poprzez architekturę muru wyznaczoną. Jego szmaciane bambosze wywiązując się przecudnie, obowiązków swych dopełniają, zapewniając nieskalany nasłuch na potencjowrogasów. Jednakże wewnątrzcielsny monolog dramaturgii nałykany niedalibóg wyciszyć się:
 
@@ -378,7 +378,7 @@ Tymczasem zza onyksowych okien przywleczonych błoną rybich, krowich, koniczynn
 
 W oddali jeło słychać morderczą pieść bitwewną:
 
-> Wir sind die Roboter! Ty - tu - ri - ri!
+> Wir sind die Roboter! Ty -- tu -- ri -- ri!
 
 Antyczna budowla zadrżała w posadach swych ud-fundamentów przy potężnym basie melodii tejże terrorpiosnki. Struchleli wewnątrzzebrani ludkowie, uściśniając krąg swój w centrum sali balowej.
 
@@ -450,7 +450,7 @@ Jakby nierozumiejąc go Jało stał tam nadal z rozdziawionym gębiszczem. Konna
 
 Vulgaris opanowując początkowy przestrach oraz zszoko zoponował:
 
-> Mości głowiszczu, jam jest Jałowiec - taki fajniutki, no taki Jało, sir.
+> Mości głowiszczu, jam jest Jałowiec -- taki fajniutki, no taki Jało, sir.
 
 Jegoż dyskusji oponent trochę poirytowany takim obrotem sprawy w kwestii odpowiedzi na swe zawołanie podjął dalsze próby partycypacji w rozmowie:
 
@@ -474,7 +474,7 @@ Jednakże przerwał mu jednak:
 
 Błysłnęło wszystko zewsząd!
 
-### Scena Szósta - Krótka
+### Scena Szósta -- Krótka
 
 Sala balowa
 
@@ -515,9 +515,9 @@ Mury zamku od strony zachodniej
 
 W której ginie śmiercią rycerską SRSyK oraz bohaterską Ryc.1, odpędzając rebelianckie robo-ścierwo od krainy ukochanej, kytóra również chronologicznie winna być wcześniej :-o
 
-Wojna, wojna nigdy się nie zmienia. Zewsząd ogarniający kamieniotok chroniących zamczysko murzysk przebija się czernią, posiadając jakby w bluscreenie wklejone tło laserowo błyskające - błysku, błyski, mig mig. Krystaliczne ponadprzeciętnie neokaledońskie czerwienie i skandalizujące pornopurpury mrugają odciskując na mgle niecnej i wieczernej swe barwniki. Horror, horror na myśl przywiduje widok ten nieziemski, jakby nie z tej ziemi. Wielorakie łby i postacie w mnogości-liczebności swej po posklejanych kamieni murów ciagłych krzątają pośpiesznie wte wewte. Nie dostrzeże się już zdobnych prekambru krużganków o szlachetnych zwieńczeniach, gdyż biegi ich, tych patryotycznych wojów tumany pyłu wznieciły.
+Wojna, wojna nigdy się nie zmienia. Zewsząd ogarniający kamieniotok chroniących zamczysko murzysk przebija się czernią, posiadając jakby w bluscreenie wklejone tło laserowo błyskające -- błysku, błyski, mig mig. Krystaliczne ponadprzeciętnie neokaledońskie czerwienie i skandalizujące pornopurpury mrugają odciskując na mgle niecnej i wieczernej swe barwniki. Horror, horror na myśl przywiduje widok ten nieziemski, jakby nie z tej ziemi. Wielorakie łby i postacie w mnogości-liczebności swej po posklejanych kamieni murów ciagłych krzątają pośpiesznie wte wewte. Nie dostrzeże się już zdobnych prekambru krużganków o szlachetnych zwieńczeniach, gdyż biegi ich, tych patryotycznych wojów tumany pyłu wznieciły.
 
-Dziedzińczyk pusty, jednak w powietrzu unoszą się kakafonie straszliwych machin zagładę niosących robotów maszerujących i jeżdżących. Pierwszy wybiega Srebrnokrosty - jego charakterystyczny falban napierśnika faluje dumnie! Jakże piękny był to widok, widzieć tego przystojnego charyzmatycznego klasycznego rycerza w akcji, chlip :,-) Jęło być słychać, jak Jało nusi opanowany pod nosem:
+Dziedzińczyk pusty, jednak w powietrzu unoszą się kakafonie straszliwych machin zagładę niosących robotów maszerujących i jeżdżących. Pierwszy wybiega Srebrnokrosty -- jego charakterystyczny falban napierśnika faluje dumnie! Jakże piękny był to widok, widzieć tego przystojnego charyzmatycznego klasycznego rycerza w akcji, chlip :,-) Jęło być słychać, jak Jało nusi opanowany pod nosem:
 
 > Hej wojenko, wojenko…
 
@@ -579,11 +579,11 @@ Nahle znów! Wyrwa w murze rozsadziła się eksplozją protonową!
 
 Rozsypiwszy się mur rozstąpił petryfikującą makabreskę. Oto bowiemż na teren spornego konfliktu wkrocziła najpotężna zewsząd godzących laserowym przeorywaczem machina terroru, wnioskująca samym swym jestestwem o zagładę ludzkich powłok cielesnych, jakże miękkich i pięknych.
 
-> Wir sind die Roboter! Ty - tu - ri - ri!
+> Wir sind die Roboter! Ty -- tu -- ri -- ri!
 
 Pieśń bitwena cybermaszyn zagrzmiała gromkim basem wtórując jękom:
 
-> Wir sind die Roboter! Ty - tu - ri - ri!
+> Wir sind die Roboter! Ty -- tu -- ri -- ri!
 
 Dziewięśsetcentrymetrowe niby-łodygi-a-macki zrodzone z tytanowej rudy meteorytowej jęły siać tęgimi razami poprzez ranki żołnierzy-rycerzy ginących bohatersko, acz mnogo
 
@@ -595,7 +595,7 @@ Poprzez całokształt horroricznego odwrotu losu bitewnego dało się jednak sł
 
 > Skoncentrować całą siłę ognia na tejże machinie holokaustu powiadam wam!
 
-Piły tarczowe przyozdabiały odnóża cybernetycznej maszkary, a milijon ślepii - każde z nich o hiperlaserowym napędzie, zdolne ciskania najpotężniejszymi promieniami. Ten behemocijski lewiatan przetoczywszy się takoż łatwiuśko przez ciosany granit oraz grejs (o wadze dziesięciu sążni każdy!), niczym prawy stuprocent-mężny mąż szlachecki przezeń dzierlatki przedzalotne opory i miękką bieliznę. Ki to! Jeno nawet sam Ryc.1 w tejże chwili siekający pomniejsze cyborgi-morderców swym szkarłupnym mieczem oblekł by się czerwienią zazdrości widząc tak jurną moc wspomaganą sub-termojądrowym sercem czarnym jak węgiel.
+Piły tarczowe przyozdabiały odnóża cybernetycznej maszkary, a milijon ślepii -- każde z nich o hiperlaserowym napędzie, zdolne ciskania najpotężniejszymi promieniami. Ten behemocijski lewiatan przetoczywszy się takoż łatwiuśko przez ciosany granit oraz grejs (o wadze dziesięciu sążni każdy!), niczym prawy stuprocent-mężny mąż szlachecki przezeń dzierlatki przedzalotne opory i miękką bieliznę. Ki to! Jeno nawet sam Ryc.1 w tejże chwili siekający pomniejsze cyborgi-morderców swym szkarłupnym mieczem oblekł by się czerwienią zazdrości widząc tak jurną moc wspomaganą sub-termojądrowym sercem czarnym jak węgiel.
 
 > Bziuuuuu! Piłłłł-piłł!
 
@@ -607,7 +607,7 @@ Seria podówczas wcześniejszych seriii strzał odbiwszy się żałośnie od tyt
 
 > Brrr!
 
-Cały pozostały przy dychaniu kwiecie rycerstwa królewskiego zjadłwszy przerażenie tejże terroru masziny struchlałło - prócz Srebrzystego Rycerza, który widząc mękę oraz przegraną ziomków swych powziął się na istotę swej rycerskości i wystąpił powoli przed bestyję buchającą laserskimi smagnięciami. Powoli zatoczył znamienitsze półkole swąż przepiękną, prekambyrjsko zdobną klingą kryształowo wykańczaną. U instynktu zgenezowany odruch, że pobratymców poratunek na szali nleży umieścić wyzywając gigantycznego robota do pojedynkowania się tradycznego. Rzekł nieposzczędziwszy patosu:
+Cały pozostały przy dychaniu kwiecie rycerstwa królewskiego zjadłwszy przerażenie tejże terroru masziny struchlałło -- prócz Srebrzystego Rycerza, który widząc mękę oraz przegraną ziomków swych powziął się na istotę swej rycerskości i wystąpił powoli przed bestyję buchającą laserskimi smagnięciami. Powoli zatoczył znamienitsze półkole swąż przepiękną, prekambyrjsko zdobną klingą kryształowo wykańczaną. U instynktu zgenezowany odruch, że pobratymców poratunek na szali nleży umieścić wyzywając gigantycznego robota do pojedynkowania się tradycznego. Rzekł nieposzczędziwszy patosu:
 
 > O potworo straszliwsza ty! Jako mi dopomóż tradycja i honor orzeka wzywam cię, stań do uczciwego pojedynku o bitwę tą.
 
@@ -647,7 +647,7 @@ Sala post-balowa
 
 W której (już odtąd) Jan Pikaczu III Wulgarny okazuje się nowym pretendentem do wagin Princes-siostry, a następnie nowym królem postromantycznie prepozytywistycznym, choć właściwie nie zasłużył (Stąd wiecie czytelniku, że prawdę opowiedzieliśmy, nie jedno bajkę).
 
-Szkarłatne szarficze opatuliwszy misternie rzeźbione kolumny o wykończeniu kunsztownym uzdolnych Filarysów, opuszczają się ku pięciokrotnie powtórzonym tryskającym źródełkom. Centrum bal-sali tworzy cudotwórcze pentagramu dziecię - parkiet taneczny jesionny, który zdaje się już zapomniał o kolanach, kostkach i udach erotycznych, także muzykach bardyjskich. Ludzie w osobie poobijanych rycerzy, mieszczańskiego tłumu i chłopskich łuczników zebriwszy się wokoło księżnicznej i pikaczuicznej pary oczekuje hapiendu.
+Szkarłatne szarficze opatuliwszy misternie rzeźbione kolumny o wykończeniu kunsztownym uzdolnych Filarysów, opuszczają się ku pięciokrotnie powtórzonym tryskającym źródełkom. Centrum bal-sali tworzy cudotwórcze pentagramu dziecię -- parkiet taneczny jesionny, który zdaje się już zapomniał o kolanach, kostkach i udach erotycznych, także muzykach bardyjskich. Ludzie w osobie poobijanych rycerzy, mieszczańskiego tłumu i chłopskich łuczników zebriwszy się wokoło księżnicznej i pikaczuicznej pary oczekuje hapiendu.
 
 > …i to było tak właśnie!
 
@@ -691,7 +691,7 @@ Moralizatorsko uniesiony paluch:
 
 Również:
 
-> Również: chciałbym by już teraz wszyscy pamiętali by zwracać się do mię: Jan - yy - czeci, nie nie, Jan - Pikaczu - czeci. Ymmm… Wulgarny do tego, o. Z pomocą nauki czmychajcie!
+> Również: chciałbym by już teraz wszyscy pamiętali by zwracać się do mię: Jan -- yy -- czeci, nie nie, Jan -- Pikaczu -- czeci. Ymmm… Wulgarny do tego, o. Z pomocą nauki czmychajcie!
 
 Rozszedli się wewte strony skądż największa potrzeba ratunku i pomocy do nich nawoływała jękiem tysiąca dziewic pragnących poratunku ze swojego niefrasobliwego położenia przeobrażywszy się chęci w kobietszą postać. Rozszedli się po obu bokach ckliwie-wnet posiadwszy w prawicy jeno kielnie swe i ujeżdżając na dzielnych przewalskiego koniotworach szerzyć piękno, dobro i ojczyznę jęli.
 
@@ -711,11 +711,11 @@ Komnata Princesy-siostry
 
 W której następuje rozwiązanie akcji, gdyż ostatnia ta jest na końcu scenisza.
 
-Okryte zmysłowością kotar okiennice spowijają półmrokiem komnatę królewską przytulnie. Delikatna woń ekskluzywnych kadzidł janczarskich wprowadziwszy przyjemny zawrót głowy, ku pieszczotliwym zamiarom skłania. Zapaszyste łoże uświetniające całą ścianę wieżynną rozpuszcza zapraszającym gestem jęzory swych pierzyn. Kufry, kuferki, szafy na suknie, toaletka. To kunsztownie ociosane  pomieszczenie w stylu późno kredowym nie wyzbyło się minimumu standardów delikatnych pośladków dziewczęcych spełniając. Para kochanków powoli sunie po krytej kożuchem podłodze pieszcząc wzajemnie swe wdzięki chcąc skryć wstydliwie swe nagie ciała pod moskytierą.
+Okryte zmysłowością kotar okiennice spowijają półmrokiem komnatę królewską przytulnie. Delikatna woń ekskluzywnych kadzidł janczarskich wprowadziwszy przyjemny zawrót głowy, ku pieszczotliwym zamiarom skłania. Zapaszyste łoże uświetniające całą ścianę wieżynną rozpuszcza zapraszającym gestem jęzory swych pierzyn. Kufry, kuferki, szafy na suknie, toaletka. To kunsztownie ociosane pomieszczenie w stylu późno kredowym nie wyzbyło się minimumu standardów delikatnych pośladków dziewczęcych spełniając. Para kochanków powoli sunie po krytej kożuchem podłodze pieszcząc wzajemnie swe wdzięki chcąc skryć wstydliwie swe nagie ciała pod moskytierą.
 
 > Achh
 
-Zmysłowo westchnęła Princesa-siostry. Jął ją wtedy Jan w ramiony swe, a lewicą sięgnął ku sznurom, gorset rozwikłując. W następstwie nagich krągłości wybranki swej dobył zaraezerwowane na takie właśnie uroczyste uroczistości afrodyzjackie wonne oleje z limby szarek, której sam Jezus z Nazaeru jął dotykać łzymi swymi - takaż to relikwia!
+Zmysłowo westchnęła Princesa-siostry. Jął ją wtedy Jan w ramiony swe, a lewicą sięgnął ku sznurom, gorset rozwikłując. W następstwie nagich krągłości wybranki swej dobył zaraezerwowane na takie właśnie uroczyste uroczistości afrodyzjackie wonne oleje z limby szarek, której sam Jezus z Nazaeru jął dotykać łzymi swymi -- takaż to relikwia!
 
 Opatrzywszy rozpalony kwartet lic kusicielsko Princesy-siostry rzekł mile na nią spojrzawszy
 
