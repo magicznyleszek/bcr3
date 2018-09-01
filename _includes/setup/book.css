@@ -48,7 +48,10 @@ book-section[is="book-title"] h2 {
   font-size: 2rem;
   line-height: calc(var(--s-leading) * 2);
 }
-book-section[is="characters"] {
+book-section[is="characters"] h1 {
+  text-align: center;
+  font-size: 2rem;
+  line-height: calc(var(--s-leading) * 2);
 }
 book-section[is="scene"] h1 {
   text-align: center;
