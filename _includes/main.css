@@ -11,3 +11,4 @@ main styles aggregation
 @import "setup/root.css";
 @import "setup/states.css";
 @import "setup/typography.css";
+@import "setup/book.css";

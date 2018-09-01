@@ -12,7 +12,7 @@ variables - all global and pallete variables for project
   --c-charcoal: hwb(0deg, 20%, 80%);
 
   /* font families palette */
-  --font-serif: "IM Fell DW Pica Pro", serif;
+  --font-serif: "IM FELL DW Pica", serif;
 
   /* base */
   --c-root-txt: var(--c-charcoal);

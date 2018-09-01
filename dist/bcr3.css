@@ -27,11 +27,11 @@ custom media queries and selectors shortcuts
 
 /* groups selectors */
 
-/* basics */@font-face{font-family:IM Fell DW Pica Pro;src:url(fonts/im-fell-dw-pica-pro-regular.woff) format("woff");font-weight:400;font-style:normal}@font-face{font-family:IM Fell DW Pica Pro;src:url(fonts/im-fell-dw-pica-pro-italic.woff) format("woff");font-weight:400;font-style:italic}
+/* basics */@font-face{font-family:IM FELL DW Pica;src:local("IM FELL DW Pica Italic"),url(fonts/IM_FELL_DW_Pica_Italic.woff2) format("woff2"),url(fonts/IM_FELL_DW_Pica_Italic.woff) format("woff"),url(fonts/IM_FELL_DW_Pica_Italic.ttf) format("truetype");font-weight:400;font-style:italic}@font-face{font-family:IM FELL DW Pica;src:local("IM FELL DW Pica Roman"),url(fonts/IM_FELL_DW_Pica_Roman.woff2) format("woff2"),url(fonts/IM_FELL_DW_Pica_Roman.woff) format("woff"),url(fonts/IM_FELL_DW_Pica_Roman.ttf) format("truetype");font-weight:400;font-style:normal}
 
 /*******************************************************************************
 a simple reset
-*******************************************************************************/*,:after,:before{vertical-align:baseline;box-sizing:inherit;margin:0;border:0;padding:0;background-color:transparent;color:inherit;font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit}
+*******************************************************************************/*,:after,:before{vertical-align:baseline;box-sizing:inherit;margin:0;border:0;padding:0;background-color:transparent;color:inherit;font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;line-height:inherit}
 
 /* reset HTML5BP links stuff */a[href]:after,abbr[title]:after{content:""}
 
@@ -42,7 +42,7 @@ NOTE: Root line height is being used in many places throughout the project.
 It is recommended to keep all vertical margins and heights of elements to match
 the leading. Use caution when adding borders or when using vertical-align middle
 as they tend to add unwanted pixels, thus braking the flow.
-*******************************************************************************/html{box-sizing:border-box;min-height:100%;color:#333;font-family:IM Fell DW Pica Pro,serif;font-weight:400;font-size:112.5%;line-height:1.666;text-rendering:optimizeLegibility}
+*******************************************************************************/html{box-sizing:border-box;min-height:100%;color:#333;font-family:IM FELL DW Pica,serif;font-weight:400;font-size:112.5%;line-height:1.666;text-rendering:optimizeLegibility}
 
 /* clever page scaling with root font size changes */@media (min-width:1536px){html{font-size:125%}body{padding:calc(calc(1.666 * 1rem) * 2)}}@media (min-width:721px) and (max-width:1535px){body{padding:calc(calc(1.666 * 1rem) * 1.5)}}@media (max-width:720px){html{font-size:100%}body{padding:calc(calc(1.666 * 1rem) * 1)}}@media print{html{font-size:10pt}body{padding:0}}
 
@@ -56,4 +56,13 @@ user-action influenced states
 
 /*******************************************************************************
 base typographic rules
-*******************************************************************************/h1,h2,h3,h4{margin:0;padding:0;line-height:1}blockquote:not(:last-child),h1:not(:last-child),h2:not(:last-child),h3:not(:last-child),h4:not(:last-child),ol:not(:last-child),p:not(:last-child),pre:not(:last-child),ul:not(:last-child){margin-top:0;margin-bottom:calc(1.666 * 1rem)}h1,h2{border-bottom:.125rem solid #333}h1{font-size:200%}h2{font-size:150%}h3{font-size:125%}h4{font-size:inherit;font-weight:700}p,pre{margin:0}ol,ul{margin-left:calc(1.666 * 1rem);padding:0}ul{list-style-type:disc}ol{list-style-type:decimal}small,sub,sup{font-size:75%}sub,sup{vertical-align:baseline;position:relative;line-height:0}sup{top:-.5em}sub{bottom:-.25em}strong{font-weight:700}blockquote,em{font-style:italic}blockquote{border-left:.125rem solid #ccc;padding-left:calc(1.666 * 1rem)}blockquote cite:before{content:"\2014";display:inline-block;margin-right:.25rem}
+*******************************************************************************/ol,ul{margin-left:calc(1.666 * 1rem);padding:0}ul{list-style-type:disc}ol{list-style-type:decimal}small,sub,sup{font-size:75%}sub,sup{vertical-align:baseline;position:relative;line-height:0}sup{top:-.5em}sub{bottom:-.25em}strong{font-weight:700}em{font-style:italic}book-section,characters-label,characters-person,dialogue-didascalia,dialogue-speech,scene-didascalia{display:block;width:100%}characters-label:not(:last-child),characters-person:not(:last-child),dialogue-didascalia:not(:last-child),dialogue-speech:not(:last-child),scene-didascalia:not(:last-child){padding-bottom:calc(1.666 * 1rem)}
+
+/* book sections */book-section{display:block;min-height:100vh;padding-left:calc(calc(1.666 * 1rem) * 2);padding-right:calc(calc(1.666 * 1rem) * 2)}book-section:not(:last-child){padding-top:calc(calc(1.666 * 1rem) * 1);padding-bottom:calc(calc(1.666 * 1rem) * 1)}book-section[is=act-title] h1{text-align:center;text-transform:uppercase;font-size:3rem;line-height:calc(calc(1.666 * 1rem) * 3)}book-section[is=book-title]{text-align:center}book-section[is=book-title] h1{font-size:4rem;line-height:calc(calc(1.666 * 1rem) * 4)}book-section[is=book-title] h2{font-size:2rem;line-height:calc(calc(1.666 * 1rem) * 2)}book-section[is=scene] h1{text-align:center;font-size:2rem;line-height:calc(calc(1.666 * 1rem) * 2)}
+
+/* characters */characters-person person-name{font-weight:700}
+
+/* dialogue  */dialogue-speech{font-style:italic;white-space:pre-line;position:relative}dialogue-speech:before{
+  /* em dash and nbsp */content:"\2014\00a0";position:absolute;right:100%}
+
+/* scene didascalia */scene-didascalia[is=place]{text-align:center}scene-didascalia[is=summary]{font-style:italic}
