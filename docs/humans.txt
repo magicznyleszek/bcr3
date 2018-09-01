@@ -1,0 +1,17 @@
+## TEAM
+
+Everything: Leszek Pietrzak
+Site: leszekpietrzak.com
+Email: leszek@magicznyleszek.xyz
+Location: Warsaw, Poland
+
+
+## THANKS
+
+All the people who created the deps I use <3.
+
+## SITE
+
+Last update: 2018/09
+Language: Polish
+Software: Atom

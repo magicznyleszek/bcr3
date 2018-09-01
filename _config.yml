@@ -1,0 +1,30 @@
+# description
+name: "bcr3"
+description: ""
+keywords: ""
+author: "Leszek Pietrzak"
+email: "leszek@magicznyleszek.xyz"
+language: "pl-PL"
+
+# address settings
+rootSiteUrl: "http://magicznyleszek.xyz"
+baseurl: "http://bcr3.magicznyleszek.xyz"
+
+# site configuration
+safe: true
+quiet: false
+future: true
+encoding: utf-8
+markdown: kramdown
+kramdown:
+  auto_ids: false
+timezone: Europe/Warsaw
+port: 2038
+
+exclude:
+  - node_modules
+  - LICENSE
+  - README.md
+  - package.json
+  - package-lock.json
+  - postcss.config.js

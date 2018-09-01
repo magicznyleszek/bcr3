@@ -1,1 +1,8 @@
-bcr3
+---
+layout: default
+---
+
+<p><a href="/bcr3.pdf">pdf</a></p>
+
+{% capture my_include %}{% include text/bcr3.md %}{% endcapture %}
+{{ my_include | markdownify }}
