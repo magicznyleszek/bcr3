@@ -2,6 +2,7 @@
 
 Lytewski dramat w ósemce (jednaści) scen wpisany.
 
+
 Szczebotliwsi synowie-bohateryowie tegoż opowiadania-hystoryi po brzegi pełnej mroku y mądrości sążnistej w następliwej kolejności pojawiania się są:
 
 a) Syr Rycerz Srebrnej y Krosty -- Pan nazad ziemski posiadyniec, jednorammienno dzierżywszy miecz onyksowy o ukruszonej rękojeści samnaprzód wyzwoliwszy ziemie swe ze smoków nabyłże pogmatwanej sławy cli-wieśniaków modry szacunek. Żywot spełnienia ciągnąc seksfrustrowany zapragnął nurzyć ostrze klingę swą przyrodzoną w Princesy-siostry przepastnych łonach najprędszy ślubowania miłowania orzekwszy, plotkom o jejże wyuzdaniu dając upust i rodu kontynuacji tworząc genezę.
@@ -16,7 +17,9 @@ f) Dziad IV
 g) Konna Głowa
 h) Jakiś rycerzyna
 
+
 ## AKT JEDEN JEDYNY
+
 
 ### Scena Pierwsza
 
@@ -30,14 +33,14 @@ Tutaj nasz dzielny Syr Krosty Srebrnej rycerskość swą oblubieniwszy i honor w
 
 Erotyczny szept Srebrnokrostego rycerza delikatnie unosi się wpośród nocnej bryzy i brzmi następująco: -- Tędy pani wychodzi brązowy płomyczek pstryczek koprolitów wnet milijon lat tworzyciek.
 -- Deprawujeszże me nieskalane zgryzoty pełne urokliwych liczydeł świadcząc na niekorzyść mych cnot! -- Wrzasnęła Princesa-siostry po trzykroć cycuszkami delikatniwszy zadrżawszy przerywając mu. Przyuważył to Syr Rycerz Srebrnej y Krosty i ani myślał odstąpić jeno na krok - myśli jego obległa natury nieznanej pochmurna zamieć bura o kształtach delikatnego biustu dziewiczęcego. Jego oczy wbiwszy się w biusta jęły udawać, że jeno na broszę zlukują.
-; - Wybaczżę li ja takiegoż zuchwalstwa nabrąwsz. Ale, ale! Piękności ty moja broszko wisząca u sukiennic Twych panienko pretendentko Princeso-siostry! Cóż to za kwizdrygonityczna bujnośc zdobień o geometrii zasadach gwałtu kształtach! Mówiszże mi za moment li jeno skąd te cudo-cudeńko pojąłaś na swe przyozdobnictwo?
+;	- Wybaczżę li ja takiegoż zuchwalstwa nabrąwsz. Ale, ale! Piękności ty moja broszko wisząca u sukiennic Twych panienko pretendentko Princeso-siostry! Cóż to za kwizdrygonityczna bujnośc zdobień o geometrii zasadach gwałtu kształtach! Mówiszże mi za moment li jeno skąd te cudo-cudeńko pojąłaś na swe przyozdobnictwo?
 Myśląc nadal o suteczkach, cycuszkach i zaspokajaniu rządz rzekł Srebrnokrosty ryczerzyna.
 Fuknęła się na to Princesa-siostry, że aż jej brutlitowe kryształy u wisiora zadzwoniły czerwienią zakwaszaną, przerwawszy mu gapiostwo raz kolejny:
-; - Ależ ależ kędy ci powinien rzec każdy, że twe zachwyty cne są wnet wcale nie, a przyziemne jeno antydelikatnie żądze z twych ust psioczą!
-Pocichu jął ją prosić swymi błękitnookimi jeziory wtapiając w _tym razem_ jej buśkę:
-; - Ależ ależ ja cię chcę! Wybacz li mi te grubiańskie śwoty jamż jeno rycerz niegodny twej...
+;	- Ależ ależ kędy ci powinien rzec każdy, że twe zachwyty cne są wnet wcale nie, a przyziemne jeno antydelikatnie żądze z twych ust psioczą!
+Pocichu jął ją prosić swymi błękitnookimi jeziory wtapiając w *tym razem* jej buśkę:
+;	- Ależ ależ ja cię chcę! Wybacz li mi te grubiańskie śwoty jamż jeno rycerz niegodny twej...
 Syknęła Princesa-siostry jednak ponownie:
-; - Nie kończż panie kędy zbytnio zapędzawszy się (Och!). Gdybyż Ryc.1 wybranyk serc jeno byłli w mordę by syr ci strzęchnął! Jeno on sam jeden jest nieskalan szlachtnym szlachty przeciwnieństwem oraz goblinów-skamielinów znawcą! Łaknąwszy megoż jedynie serca nieboskłon listów miłościwych zsyła k'mnie narażawszy się wszakli romantycznie.
+;	- Nie kończż panie kędy zbytnio zapędzawszy się (Och!). Gdybyż Ryc.1 wybranyk serc jeno byłli w mordę by syr ci strzęchnął! Jeno on sam jeden jest nieskalan szlachtnym szlachty przeciwnieństwem oraz goblinów-skamielinów znawcą! Łaknąwszy megoż jedynie serca nieboskłon listów miłościwych zsyła k'mnie narażawszy się wszakli romantycznie.
 Odpowiedział jej on wnet naprędce:
 ; - To na zaliczenie twe jest jeno raczej! Ryc.1 ma nadzieję dzięki temu otworszy łonowe waginy prędko niedługo stanąć mu otworem. Do tego to rabuś, bandyta nieszlachtny i polaczek!
 Widząc, że niepewna morda Srebrnego Rycerzmościa jest, jęła w swym falującym przepasistym biuście dłońmi delikatnymi smyrać, rzekomego listnego sztukaterstwa liryczego przykładu poszukując. Myląc kompletnie jednak zamiary jejże Princesy-siostry, nadmiernie wzwodniwszy swe emocje, zająknął się on:
@@ -47,7 +50,7 @@ Tymczasem wśród egzogamicznego kwiecia balkonicznego, pełnego powabu dało si
 ; - Szrrr, chrruuuuu, szrym szyryryr
 ; - Szrrr, chrruuuuu, szrym szyryryr
 Drgnęłła.
-; - Kto je to?!
+;	- Kto je to?!
 Princesa-siostry piskliwie zaniepokojona takim szmerostanem pochwyciła swój biust oburącz w przerażeniu. Nim jednak zdążyła odwróciwszy się czmychnąć posłyszała ten pełen seksownego powabu dźwięk buntownika-serc-oraz-łon-zwodnika i byłego jej łoża namiestnika. Szept jął być poetycko nastawiony o jednoznacznym ukierunku:
 ; - Jakoj ja kocham Pryncesę-siostry
 ; Onaż mię swą cudnością zachwyca
@@ -71,6 +74,7 @@ Ryc.1 zdążył za nią tylko skrzętnie zakrzyknąć:
 Odpowiedziała mu cisza:
 ; - Pędzą tu rycerze obadać cygar swych długość, prędko się ratuj Ryc.1!
 Czmychnął więc również rynną uciekniwszy skrywszy się.
+
 
 ### Scena Druga
 
@@ -103,6 +107,7 @@ Następuje czterystypięćdziesięciosekundowa sekwencja malowniczego poglądani
 Po dwuklikach oddalając się, zastanowienia miszcz Ryc.1 odwróciwszy się oznajmił przednie:
 ; - Tak.
 I odwrócił się znów i odszedł i wspiął się po rynnie i wszedł przez okno i wylądował we wieży i uciekł w tenże zamyślny zamysł i dostawiwszy się tam gdzie chciał rozradował się.
+
 
 ### Scena Trzecia
 
@@ -154,11 +159,13 @@ Krosty srebrnej przedstawiciel zbiegł prędko skąd wrócił wtedy o uszach nak
 ; - Nie słucham lalalalalala!
 Ryc.1 zadowoliwszy się z rozumu elastycznego swego zrodzonego wspiął swe oczęta ku klamrze drzwi Princesowych-siostry i przybliżył się niecnie. Jego dłonie zza pazuchy wyszperały karbowany słójiczek pełen pszczelniczego łoju bizancjum chluby. Rozlśniewując-dokonując naniósł delikatnie warstwicznie opuszkami na nieopisanie przepięknistą pukli fryzurę o dotylnim zaczesie. Poprawiwszy opięcie swego przyrodzenia, sakiewkę swych jedwabistych portek, nacisk dłonią na klamiszę wywarł zawitując środka komnaty pieczarę romantyczną.
 
+
 ### Scena Ukryta Osiemnaście+
 
 Pornokomnata Princesy-siostry
 
 W której następuje bezzsłowne słów pozbawione w towarzystwie odciążającego impregnatu ziełowego kopulowanie Ryc.1 oraz Princesy-siostry podówczas warunków wyjątkowo romantykowych. Wyjątkowiej jeszcze pornusikowych zbliżeń zbliżeń pełnych z derotaktylim pejczykiem prawdopodobnie kajdanami takoż, zamęczenia zakwasicznego przyrodzeń spowodowiwszy atmosferze towarzyszy. Jurne języczków przymilajki również. Wilgne brzoskwinki także.
+
 
 ### Scena Czwarta
 
@@ -180,7 +187,7 @@ Spojrzał ciut bardziej do góry, ręce spletł niczym w mdlitwie. Kontynuował:
 Łazić począł przy tym lewo nogą, a to już prawą stopnąć.
 ; - Kompromis jeno niemożny chwalebnego bytu w tejże sytuacyi jest mi niebliski. Zbliżne jeno plany są boskiego losu mojego czuję toż to w trzewiach, a obiad jadłę!
 Zrobiwszy kilkaż kolejno po sobie następujących ruchów stopmi Jałowczyk zerwiwszy się na nogi, na których nota bene już stał, spoglądnął spoglądnał jeno ku widnokręgowi oczy zwróciwszy, coś zobacziwszy:
-; - Kto je to?
+;	- Kto je to?
 Pomyślał.
 ; - Nie wiem :-(
 W jednej jednakże kwili pomniał swe dywagacje i problemy ustawiczne nastane, gdyż to isttnie początkowo jeno gwzdeczka mrugli kilkanaście, a zarali kilkadziesiąt mrugających lampionków już w cieniu drzew horyzontalnych zamajaczyło.
@@ -188,6 +195,7 @@ W jednej jednakże kwili pomniał swe dywagacje i problemy ustawiczne nastane, g
 Nie dysząc momentu zeskocziwszy po trzy stopnie na raz (!) popędziłł dzielny i odwagi po brzegi posiadający Jałowiec Vulgaris ze słowymi tymi:
 ; - Stalowe cielska żelazowego spoiwa zespolone zz sobą pędzą, pędzą! Het, het, lii, liit! Ostrzec wmig! Robotów plaga nam nie lada niełakniemy niełaska jejż! Do broni kto to jeno dzierżyć ją będzie wstanie!
 Przerażenia, że jeno nie zdąży stęgły mu serce. Biegł pomimotego.
+
 
 ### Scena Piąta
 
@@ -226,6 +234,7 @@ Tymczasem zza onyksowych okien przywleczonych błoną rybich, krowich, koniczynn
 W oddali jeło słychać morderczą pieść bitwewną:
 ; - We are the robots! Ty - tu - ri - ri!
 Antyczna budowla zadrżała w posadach swych ud-fundamentów przy potężnym basie melodii tejże terrorpiosnki. Struchleli wewnątrzzebrani ludkowie, uściśniając krąg swój w centrum sali balowej.
+
 
 ### Scena majaktów
 
@@ -279,6 +288,7 @@ Jednakże przerwał mu jednak:
 ; - Ciach!
 Błysłnęło wszystko zewsząd!
 
+
 ### Scena Szósta - Krótka
 
 Sala balowa
@@ -301,6 +311,7 @@ Znów jak wyżej:
 ; - No zamyśliłeś się byłeś chwilę długą, toćmy stali i oczekali, a w równoczesny ten czas działy się, oj działy!
 Krząknął (khrym) i zaczęł opowieść snuć Dziad IV:
 ; - Szuruszuruszuruszuru...
+
 
 ### Scena Retrospekcyjna
 
@@ -373,6 +384,7 @@ Ryc.1 zbierając jeszcze ostatki sił, wydając ostatnie tchnienie wyszeptał:
 ; - Bitwa jest oto zakończona... Hyyyyy...
 Wyzionął.
 
+
 ### Scena Siódma
 
 Sala post-balowa
@@ -392,7 +404,7 @@ Jan Pikaczu III Wulgarny zakrzyknął widząc jej udrękę:
 ; - Nie rycz!
 I potrząsnął Princesą-siostry rzęsiście, by tego nie czyniła.
 Ona rozwikławszy serc swego tajemnicę miłości, przejrzawszy na oczęt swych jeziory niczym pusza pandoksy otwarta, ta Princesa-siostry zapomniwszy się w sobie kompletnie oczu zamgliwszy erostazą rozpaczliwie nagrzaną z wyschłymi na policzkach łzkami wtuliła się w mężne ramiona Jana Pikaczu Trzeciego:
-; - Kocham Cię Jałowcze! Posiądźże me łono jakem mój ci on jesteś! Pragnę smakować smagnięcia twego rozkazku razporaz! Pośladki me pulchne pochwyć i ogłoś zamążpójście :-\*
+;	-	Kocham Cię Jałowcze! Posiądźże me łono jakem mój ci on jesteś! Pragnę smakować smagnięcia twego rozkazku razporaz! Pośladki me pulchne pochwyć i ogłoś zamążpójście :-*
 Cmokliwszy lico jego rozradowywujące się powoli na końcu:
 ; - Marzeniem jeno mych piersi mlecznych niedojrzałym buńczućnym byli rycerskiego grona mościowie. Dojrzawszy twą kobietą jurną zaprawdę jestem!
 Dopiero tej chwili dokonując Jan Pikaczu rozgromiwszy zasłonę ponurą umysłu swego jął kłaść swe spojrzenie po ojmującej go dziewusze. Zaskoczony:
@@ -408,8 +420,9 @@ Rozszedli się wewte strony skądż największa potrzeba ratunku i pomocy do nic
 ; - Żęcho żęcho do pracy..
 Nucili barmiwszcze-ziomkowie udając się ku służbie przy piersi matki-ojczyzny.
 JP3W tymczas na boczku oddał się jeno wędrówce niczym pielgrzym ku wrotom-drzwiom do komnat jeno jej samej jak nie jej Princesy-siostry, by dokonać czynu szlachetnego oraz zgodnego ze swym przydomkiem uczynić baa. Zniknawszy za drzwiami każąc przez tydzień ni wglądu nie czynić wszytyczny ni nic:
-; - Nie czyńcie mi wglądu tydzień jeno sam okięłznać swe dziewczę musim!
+;	- Nie czyńcie mi wglądu tydzień jeno sam okięłznać swe dziewczę musim!
 I znikłną jęł drzwi domykając orgie zaczynając.
+
 
 ### Scena Ósma
 
@@ -417,7 +430,7 @@ Komnata Princesy-siostry
 
 W której następuje rozwiązanie akcji, gdyż ostatnia ta jest na końcu scenisza.
 
-Okryte zmysłowością kotar okiennice spowijają półmrokiem komnatę królewską przytulnie. Delikatna woń ekskluzywnych kadzidł janczarskich wprowadziwszy przyjemny zawrót głowy, ku pieszczotliwym zamiarom skłania. Zapaszyste łoże uświetniające całą ścianę wieżynną rozpuszcza zapraszającym gestem jęzory swych pierzyn. Kufry, kuferki, szafy na suknie, toaletka. To kunsztownie ociosane pomieszczenie w stylu późno kredowym nie wyzbyło się minimumu standardów delikatnych pośladków dziewczęcych spełniając. Para kochanków powoli sunie po krytej kożuchem podłodze pieszcząc wzajemnie swe wdzięki chcąc skryć wstydliwie swe nagie ciała pod moskytierą.
+Okryte zmysłowością kotar okiennice spowijają półmrokiem komnatę królewską przytulnie. Delikatna woń ekskluzywnych kadzidł janczarskich wprowadziwszy przyjemny zawrót głowy, ku pieszczotliwym zamiarom skłania. Zapaszyste łoże uświetniające całą ścianę wieżynną rozpuszcza zapraszającym gestem jęzory swych pierzyn. Kufry, kuferki, szafy na suknie, toaletka. To kunsztownie ociosane  pomieszczenie w stylu późno kredowym nie wyzbyło się minimumu standardów delikatnych pośladków dziewczęcych spełniając. Para kochanków powoli sunie po krytej kożuchem podłodze pieszcząc wzajemnie swe wdzięki chcąc skryć wstydliwie swe nagie ciała pod moskytierą.
 
 ; - Achh
 Zmysłowo westchnęła Princesa-siostry. Jął ją wtedy Jan w ramiony swe, a lewicą sięgnął ku sznurom, gorset rozwikłując. W następstwie nagich krągłości wybranki swej dobył zaraezerwowane na takie właśnie uroczyste uroczistości afrodyzjackie wonne oleje z limby szarek, której sam Jezus z Nazaeru jął dotykać łzymi swymi - takaż to relikwia!
@@ -427,6 +440,7 @@ I zagasnęła nam już wizja rpzed oczymi chwilę nim dane było nam przesunąć
 ; - Ty mi tu żadne koncertuj tylko do domku na ucieleśnienie miłostknego przytulania i po główce głaskania-drapania!
 Zdarzało teże się i odwrót, gdy wnet rozkochiwszy się nienagannie Princesa-siostry przodowniczką pomocną powstała:
 ; - Too może ja pomogie tam z budowlą misiaczku?
-Dane było powiadać następliwe dzieje dziejowe Pikacznego-Wulgarnego królewstwa, ale to inej historyi opowieść pełnsza jest. Śnijże wicu mój zasłuchany :-\*
+Dane było powiadać następliwe dzieje dziejowe Pikacznego-Wulgarnego królewstwa, ale to inej historyi opowieść pełnsza jest. Śnijże wicu mój zasłuchany :-*
+
 
 KONIEC
