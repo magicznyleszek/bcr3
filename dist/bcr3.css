@@ -58,11 +58,11 @@ user-action influenced states
 base typographic rules
 *******************************************************************************/ol,ul{margin-left:calc(1.666 * 1rem);padding:0}ul{list-style-type:disc}ol{list-style-type:decimal}small,sub,sup{font-size:75%}sub,sup{vertical-align:baseline;position:relative;line-height:0}sup{top:-.5em}sub{bottom:-.25em}strong{font-weight:700}em{font-style:italic}book-section,characters-label,characters-person,dialogue-didascalia,dialogue-speech,scene-didascalia{display:block;width:100%}characters-label:not(:last-child),characters-person:not(:last-child),dialogue-didascalia:not(:last-child),dialogue-speech:not(:last-child),scene-didascalia:not(:last-child){padding-bottom:calc(1.666 * 1rem)}
 
-/* book sections */book-section{display:block;min-height:100vh;padding-left:calc(calc(1.666 * 1rem) * 2);padding-right:calc(calc(1.666 * 1rem) * 2)}book-section:not(:last-child){padding-top:calc(calc(1.666 * 1rem) * 1);padding-bottom:calc(calc(1.666 * 1rem) * 1)}book-section[is=act-title] h1{text-align:center;text-transform:uppercase;font-size:3rem;line-height:calc(calc(1.666 * 1rem) * 3)}book-section[is=book-title]{text-align:center}book-section[is=book-title] h1{font-size:4rem;line-height:calc(calc(1.666 * 1rem) * 4)}book-section[is=book-title] h2{font-size:2rem;line-height:calc(calc(1.666 * 1rem) * 2)}book-section[is=scene] h1{text-align:center;font-size:2rem;line-height:calc(calc(1.666 * 1rem) * 2)}
+/* book sections */book-section{display:block;min-height:100vh;padding-left:calc(calc(1.666 * 1rem) * 2);padding-right:calc(calc(1.666 * 1rem) * 2)}book-section:not(:last-child){padding-top:calc(1.666 * 1rem);padding-bottom:calc(1.666 * 1rem)}book-section[is=act-title] h1{text-align:center;text-transform:uppercase;font-size:3rem;line-height:calc(calc(1.666 * 1rem) * 3)}book-section[is=book-title]{text-align:center}book-section[is=book-title] h1{font-size:4rem;line-height:calc(calc(1.666 * 1rem) * 4)}book-section[is=book-title] h2{font-size:2rem;line-height:calc(calc(1.666 * 1rem) * 2)}book-section[is=scene] h1{text-align:center;font-size:2rem;line-height:calc(calc(1.666 * 1rem) * 2)}
 
 /* characters */characters-person person-name{font-weight:700}
 
-/* dialogue  */dialogue-speech{font-style:italic;white-space:pre-line;position:relative}dialogue-speech:before{
+/* dialogue  */dialogue-speech{font-style:italic;white-space:pre-line;position:relative;margin-left:calc(1.666 * 1rem)}dialogue-speech:before{
   /* em dash and nbsp */content:"\2014\00a0";position:absolute;right:100%}
 
 /* scene didascalia */scene-didascalia[is=place]{text-align:center}scene-didascalia[is=summary]{font-style:italic}

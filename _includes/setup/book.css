@@ -26,8 +26,8 @@ book-section {
 }
 
 book-section:not(:last-child) {
-  padding-top: calc(var(--s-leading) * 1);
-  padding-bottom: calc(var(--s-leading) * 1);
+  padding-top: var(--s-leading);
+  padding-bottom: var(--s-leading);
 }
 book-section[is="act-title"] h1 {
   text-align: center;
@@ -72,6 +72,7 @@ dialogue-speech {
   font-style: italic;
   white-space: pre-line;
   position: relative;
+  margin-left: var(--s-leading);
 }
 dialogue-speech::before {
   /* em dash and nbsp */
