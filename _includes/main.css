@@ -6,6 +6,7 @@ main styles aggregation
 @import "variables.css";
 
 /* basics */
+@import "setup/font.css";
 @import "setup/reset.css";
 @import "setup/root.css";
 @import "setup/states.css";

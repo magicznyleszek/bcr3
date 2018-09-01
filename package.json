@@ -12,33 +12,25 @@
   "homepage": "https://bcr3.magicznyleszek.xyz",
   "scripts": {
     "start": "npm run build",
-    "build": "pretty-quick && npm-run-all build-styles pdf-book",
+    "build": "pretty-quick && npm-run-all build-styles",
     "serve": "npm-run-all build jekyll-serve",
+    "watch": "npm-watch build-styles",
     "build-styles": "postcss _includes/main.css -o dist/bcr3.css",
-    "pdf-book": "markdown-pdf _includes/text/bcr3.md -o dist/bcr3.pdf -f A4 -r portrait -b 1.5cm -s dist/monolith.css -m '{\"breaks\": false, \"linkify\": false, \"typographer\": true}'",
     "jekyll-build": "jekyll build",
     "jekyll-serve": "jekyll serve --watch --baseurl ''"
   },
   "watch": {
-    "styles:build": {
+    "build-styles": {
       "patterns": [
-        "src"
+        "_includes"
       ],
       "extensions": "css",
-      "quiet": false
-    },
-    "pdf:build": {
-      "patterns": [
-        "src"
-      ],
-      "extensions": "md",
       "quiet": false
     }
   },
   "devDependencies": {
     "autoprefixer": "^7.2.6",
     "cssnano": "^3.10.0",
-    "markdown-pdf": "^8.1.1",
     "npm-run-all": "^4.1.3",
     "npm-watch": "^0.3.0",
     "postcss": "^6.0.23",

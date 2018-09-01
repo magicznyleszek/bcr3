@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "IM Fell DW Pica Pro";
+  src: url("./fonts/im-fell-dw-pica-pro-regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "IM Fell DW Pica Pro";
+  src: url("./fonts/im-fell-dw-pica-pro-italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+}
