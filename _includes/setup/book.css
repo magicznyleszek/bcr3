@@ -132,6 +132,7 @@ dialogue-speech {
   white-space: pre-line;
   position: relative;
   margin-left: var(--s-leading);
+  width: calc(100% - var(--s-leading));
 }
 dialogue-speech::before {
   /* em dash and nbsp */
