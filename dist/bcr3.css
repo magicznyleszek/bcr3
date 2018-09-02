@@ -42,9 +42,18 @@ NOTE: Root line height is being used in many places throughout the project.
 It is recommended to keep all vertical margins and heights of elements to match
 the leading. Use caution when adding borders or when using vertical-align middle
 as they tend to add unwanted pixels, thus braking the flow.
-*******************************************************************************/html{box-sizing:border-box;min-height:100%;color:#333;font-family:IM FELL DW Pica,serif;font-weight:400;font-size:112.5%;line-height:1.666;text-rendering:optimizeLegibility}
+*******************************************************************************/html{min-height:100%;background-color:var(--c-root-bg);font-family:IM FELL DW Pica,serif;font-size:100%;font-weight:400;color:#333;line-height:1.666;text-rendering:optimizeLegibility;box-sizing:border-box;font-size:calc(.83333rem + .55556vw)}
 
-/* clever page scaling with root font size changes */@media (min-width:1536px){html{font-size:125%}body{padding:calc(calc(1.666 * 1rem) * 2)}}@media (min-width:721px) and (max-width:1535px){body{padding:calc(calc(1.666 * 1rem) * 1.5)}}@media (max-width:720px){html{font-size:100%}body{padding:calc(calc(1.666 * 1rem) * 1)}}@media print{html{font-size:10pt}body{padding:0}}
+/*
+clever page scaling with root font size changes:
+https://www.smashingmagazine.com/2016/05/fluid-typography/
+calc(AZ + (B - A) * (100vw - CZ) / (D - C))
+- A: min font size
+- B: max font size
+- C: min screen size
+- D: max screen size
+- Z: unit (px, rem, etc.)
+*/
 
 /*******************************************************************************
 user-action influenced states
@@ -58,7 +67,7 @@ user-action influenced states
 base typographic rules
 *******************************************************************************/ol,ul{margin-left:calc(1.666 * 1rem);padding:0}ul{list-style-type:disc}ol{list-style-type:decimal}small,sub,sup{font-size:75%}sub,sup{vertical-align:baseline;position:relative;line-height:0}sup{top:-.5em}sub{bottom:-.25em}strong{font-weight:700}em{font-style:italic}book-section,characters-label,characters-person,dialogue-didascalia,dialogue-speech,scene-didascalia{display:block;width:100%}characters-label:not(:last-child),characters-person:not(:last-child),dialogue-didascalia:not(:last-child),dialogue-speech:not(:last-child),scene-didascalia:not(:last-child){padding-bottom:calc(1.666 * 1rem)}
 
-/* book sections */book-section{display:block;min-height:100vh;padding-left:calc(calc(1.666 * 1rem) * 2);padding-right:calc(calc(1.666 * 1rem) * 2)}book-section img{max-width:60vw;max-height:60vh}book-section:not(:last-child){padding-top:calc(1.666 * 1rem);padding-bottom:calc(1.666 * 1rem)}book-section[is=act-title] h1{text-align:center;text-transform:uppercase;font-size:3rem;line-height:calc(calc(1.666 * 1rem) * 3)}book-section[is=book-title]{text-align:center}book-section[is=book-title] h1{font-size:4rem;line-height:calc(calc(1.666 * 1rem) * 4)}book-section[is=book-title] h2{font-size:2rem;line-height:calc(calc(1.666 * 1rem) * 2)}book-section[is=characters] h1,book-section[is=scene] h1{text-align:center;font-size:2rem;line-height:calc(calc(1.666 * 1rem) * 2)}
+/* book sections */book-section{display:block;min-height:100vh;max-width:54rem;margin:0 auto;padding-left:calc(calc(1.666 * 1rem) * 2);padding-right:calc(calc(1.666 * 1rem) * 2)}book-section img{max-width:80vw;max-height:90vh}book-section:not(:last-child){padding-top:calc(1.666 * 1rem);padding-bottom:calc(1.666 * 1rem)}book-section[is=act-title] h1{text-align:center;text-transform:uppercase;font-size:3rem;line-height:calc(calc(1.666 * 1rem) * 3)}book-section[is=book-ending] h1{text-align:center;text-transform:uppercase;font-size:2rem;line-height:calc(calc(1.666 * 1rem) * 2)}book-section[is=book-title]{text-align:center}book-section[is=book-title] h1{font-size:4rem;line-height:calc(calc(1.666 * 1rem) * 4)}book-section[is=book-title] h2{font-size:2rem;line-height:calc(calc(1.666 * 1rem) * 2)}book-section[is=characters] h1,book-section[is=scene] h1{text-align:center;font-size:2rem;line-height:calc(calc(1.666 * 1rem) * 2)}book-section[is=colofon]{white-space:pre-line}
 
 /* characters */characters-person person-name{font-weight:700}
 

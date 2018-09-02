@@ -21,13 +21,15 @@ scene-didascalia:not(:last-child) {
 book-section {
   display: block;
   min-height: 100vh;
+  max-width: 54rem;
+  margin: 0 auto;
   padding-left: calc(var(--s-leading) * 2);
   padding-right: calc(var(--s-leading) * 2);
 }
 
 book-section img {
-  max-width: 60vw;
-  max-height: 60vh;
+  max-width: 80vw;
+  max-height: 90vh;
 }
 
 book-section:not(:last-child) {
@@ -40,7 +42,11 @@ book-section[is="act-title"] h1 {
   font-size: 3rem;
   line-height: calc(var(--s-leading) * 3);
 }
-book-section[is="book-ending"] {
+book-section[is="book-ending"] h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 2rem;
+  line-height: calc(var(--s-leading) * 2);
 }
 book-section[is="book-title"] {
   text-align: center;
@@ -64,6 +70,9 @@ book-section[is="scene"] h1 {
   line-height: calc(var(--s-leading) * 2);
 }
 book-section[is="table-of-contents"] {
+}
+book-section[is="colofon"] {
+  white-space: pre-line;
 }
 
 /* characters */
