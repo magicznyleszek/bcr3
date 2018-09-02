@@ -25,6 +25,11 @@ book-section {
   padding-right: calc(var(--s-leading) * 2);
 }
 
+book-section img {
+  max-width: 60vw;
+  max-height: 60vh;
+}
+
 book-section:not(:last-child) {
   padding-top: var(--s-leading);
   padding-bottom: var(--s-leading);
