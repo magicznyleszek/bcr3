@@ -5,27 +5,22 @@ user-action influenced states
 :root {
   --focus-outline-c: var(--c-meteorite);
   --focus-outline-w: 0.25rem;
-  --selection-txt-c: var(--c-root-bg);
-  --selection-bg-c: var(--c-root-txt);
-  --disabled-o: 0.5;
+  --selection-txt-c: var(--c-porcelain);
+  --selection-bg-c: var(--c-meteorite);
 }
 
 /* links */
 
-a {
+a[href] {
   text-decoration: underline;
 }
 
-a:hover {
-  opacity: color(var(--c-root-text) tint(20%));
+a[href]:hover {
+  color: color(var(--c-meteorite) tint(20%));
 }
 
-a:active {
-  opacity: 0.6;
-}
-
-a:visited {
-  opacity: 0.6;
+a[href]:active {
+  color: color(var(--c-meteorite) tint(30%));
 }
 
 /* text selection */

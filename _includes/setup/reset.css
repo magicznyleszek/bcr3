@@ -18,9 +18,3 @@ a simple reset
   font-weight: inherit;
   line-height: inherit;
 }
-
-/* reset HTML5BP links stuff */
-abbr[title]::after,
-a[href]::after {
-  content: "";
-}

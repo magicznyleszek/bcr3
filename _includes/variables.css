@@ -10,34 +10,9 @@ variables - all global and pallete variables for project
   /* font families palette */
   --font-serif: "IM FELL DW Pica", serif;
 
-  /* base */
-  --c-root-txt: var(--c-meteorite);
-  --c-root-bg: var(--c-porcelain);
-
   /* root typography */
-  --root-fontWeight: 400;
   --root-lineHeight: 1.666;
-  --root-fontFamily: var(--font-serif);
-
-  /* font sizes with respect to user browser default sizes */
-  --root-fontSize-medium: 112.5%; /* probably 18px */
-  --root-fontSize-smaller: 100%; /* probably 16px */
-  --root-fontSize-bigger: 125%; /* probably 20px */
-  --root-fontSize-print: 10pt; /* definitely 12pt */
 
   /* leading size for all spacing between elements to be pretty */
   --s-leading: calc(var(--root-lineHeight) * 1rem);
 }
-
-/*******************************************************************************
-custom media queries and selectors shortcuts
-*******************************************************************************/
-
-/* media queries for scaling everything */
-@custom-media --bigger (min-width: 1536px);
-@custom-media --medium (min-width: 721px) and (max-width: 1535px);
-@custom-media --smaller (max-width: 720px);
-
-/* groups selectors */
-@custom-selector :--headers h1, h2, h3, h4;
-@custom-selector :--textblocks h1, h2, h3, h4, p, ul, ol, blockquote, pre;
