@@ -48,7 +48,7 @@ book-section[is="act-title"] h1 {
   text-align: center;
   text-transform: uppercase;
   font-size: 3rem;
-  line-height: calc(var(--s-leading) * 3);
+  line-height: calc(var(--s-leading) * 2);
 }
 
 /* section: book ending */
@@ -71,7 +71,7 @@ book-section[is="book-title"] h1 {
 }
 book-section[is="book-title"] h2 {
   font-size: 2rem;
-  line-height: calc(var(--s-leading) * 2);
+  line-height: var(--s-leading);
 }
 book-section[is="book-title"] h3 {
   font-size: 1rem;
@@ -84,7 +84,7 @@ book-section[is="scene"] h1,
 book-section[is="characters"] h1 {
   text-align: center;
   font-size: 2rem;
-  line-height: calc(var(--s-leading) * 2);
+  line-height: var(--s-leading);
 }
 
 book-section[is="scene"] img,
