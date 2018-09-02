@@ -7,15 +7,15 @@ variables - all global and pallete variables for project
   --c-amaranth: hwb(348deg, 12%, 2%);
   --c-purple: hwb(328deg, 12%, 24%);
   --c-violet: hwb(276deg, 14%, 42%);
-  --c-white: hwb(0deg, 100%, 0%);
-  --c-silver: hwb(0deg, 80%, 20%);
-  --c-charcoal: hwb(0deg, 20%, 80%);
+  --c-blanc: #e6e2d6;
+  --c-jacarta: #3c345e;
 
   /* font families palette */
   --font-serif: "IM FELL DW Pica", serif;
 
   /* base */
-  --c-root-txt: var(--c-charcoal);
+  --c-root-txt: var(--c-jacarta);
+  --c-root-bg: var(--c-blanc);
 
   /* root typography */
   --root-fontWeight: 400;

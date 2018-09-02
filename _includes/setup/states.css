@@ -5,8 +5,8 @@ user-action influenced states
 :root {
   --focus-outline-c: var(--c-amaranth);
   --focus-outline-w: 0.25rem;
-  --selection-txt-c: var(--c-white);
-  --selection-bg-c: var(--c-amaranth);
+  --selection-txt-c: var(--c-root-bg);
+  --selection-bg-c: var(--c-root-txt);
   --disabled-o: 0.5;
 }
 
