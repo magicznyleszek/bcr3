@@ -4,18 +4,15 @@ variables - all global and pallete variables for project
 
 :root {
   /* colors palette */
-  --c-amaranth: hwb(348deg, 12%, 2%);
-  --c-purple: hwb(328deg, 12%, 24%);
-  --c-violet: hwb(276deg, 14%, 42%);
-  --c-blanc: #e6e2d6;
-  --c-jacarta: #3c345e;
+  --c-porcelain: #dbd9d7;
+  --c-meteorite: #403b64;
 
   /* font families palette */
   --font-serif: "IM FELL DW Pica", serif;
 
   /* base */
-  --c-root-txt: var(--c-jacarta);
-  --c-root-bg: var(--c-blanc);
+  --c-root-txt: var(--c-meteorite);
+  --c-root-bg: var(--c-porcelain);
 
   /* root typography */
   --root-fontWeight: 400;
