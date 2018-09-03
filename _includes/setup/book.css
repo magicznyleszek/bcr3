@@ -10,10 +10,9 @@ scene-didascalia {
   width: 100%;
 }
 
-book-section[is="book-title"] h1:not(:last-child),
-book-section[is="book-title"] h2:not(:last-child),
-book-section[is="scene"] h1:not(:last-child),
-book-section[is="characters"] h1:not(:last-child),
+book-section h1:not(:last-child),
+book-section h2:not(:last-child),
+book-section h3:not(:last-child),
 characters-label:not(:last-child),
 characters-person:not(:last-child),
 dialogue-didascalia:not(:last-child),
@@ -24,29 +23,21 @@ scene-didascalia:not(:last-child) {
 
 book-section {
   display: block;
-  min-height: 100vh;
   max-width: 50rem;
   margin: 0 auto;
   padding-left: var(--s-leading);
   padding-right: var(--s-leading);
+  padding-top: calc(var(--s-leading) * 4);
+  padding-bottom: calc(var(--s-leading) * 4);
   clear: both;
-}
-
-book-section:not(:last-child) {
-  padding-top: var(--s-leading);
-  padding-bottom: var(--s-leading);
 }
 
 book-section img {
   max-width: 100%;
-  max-height: 90vh;
 }
 
 /* section: act title */
 
-book-section[is="act-title"] {
-  padding-top: 30vh;
-}
 book-section[is="act-title"] h1 {
   text-align: center;
   text-transform: uppercase;
@@ -104,9 +95,6 @@ book-section[is="book-title"] img:not(:last-child) {
   margin-bottom: var(--s-leading);
 }
 
-book-section[is="table-of-contents"] {
-}
-
 /* section: colofon */
 
 book-section[is="colofon"] {
@@ -129,7 +117,7 @@ characters-person img {
   margin-bottom: var(--s-leading);
   margin-right: var(--s-leading);
   max-width: 30vw;
-  max-height: 30vh;
+  max-height: calc(var(--s-leading) * 6);
 }
 
 /* dialogue  */
