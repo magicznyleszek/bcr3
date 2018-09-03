@@ -75,7 +75,8 @@ book-section[is="book-title"] h3 {
 /* section: scene */
 
 book-section[is="scene"] h1,
-book-section[is="characters"] h1 {
+book-section[is="characters"] h1,
+book-section[is="table-of-contents"] h1 {
   text-align: center;
   font-size: 2rem;
   line-height: var(--s-leading);
@@ -93,6 +94,19 @@ book-section[is="scene"] img:not(:last-child),
 book-section[is="cover"] img:not(:last-child),
 book-section[is="book-title"] img:not(:last-child) {
   margin-bottom: var(--s-leading);
+}
+
+/* section: table of contents */
+
+book-section[is="table-of-contents"] {
+  text-align: center;
+}
+book-section[is="table-of-contents"] ol {
+  display: inline-block;
+  margin: 0;
+}
+book-section[is="table-of-contents"] ol li {
+  text-align: left;
 }
 
 /* section: colofon */
